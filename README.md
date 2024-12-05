@@ -1,7 +1,21 @@
-# Hello-World
-This is my first repo for learning purposes dedicated to learning the various features of GitHub and Git
-# My new journey of programming in a hackers world   **bold text**
-1. Learn the basics
-2. Write something useful
-3. Make it simple to understand and learn other
+# f_vermaak_bio
+This repo is my bio and how to connect, my objectives and personal interest around practical experience related to all things technology and cyber 
 
+## About Me
+I'm a passionate GRC specialist with experience in Internal Auditing and Risk and Controls. My Github page is dedicated to showcase personal projects across various areas of interest including homelab setup. I love experimenting with new technologies and sharing my knowledge with the community and my connections.
+
+## Skills
+- Arduino
+- Python
+- Linux
+- Docker
+- Kubernetes
+- API's
+
+## Projects
+- [Arduino projects](https://github.com/)
+- [Advent of Code 2024](https://github.com/)
+- [Homelab Setup](https://github.com/)
+
+## Connect with Me
+- LinkedIn (https://au.linkedin.com/in/francois-vermaak-a8854888/)
