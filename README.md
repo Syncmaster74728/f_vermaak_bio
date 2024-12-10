@@ -14,7 +14,7 @@ I'm a passionate GRC specialist with experience in Internal Auditing and Risk an
 
 ## Projects
 - [Arduino projects](https://github.com/)
-- [Advent of Code 2024](https://github.com/)
+- [Advent of Cloud Security 2024](https://github.com/Syncmaster74728/AdventOfCloudSecurity))
 - [Homelab Setup](https://github.com/)
 
 ## Connect with Me
